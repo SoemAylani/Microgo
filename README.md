@@ -122,22 +122,6 @@ To retrain or fine-tune:
 2. Run the training cells to generate new checkpoints.
 3. Evaluate using the provided `quick_series` function.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Please ensure code follows PEP 8 standards and includes comments for clarity.
-
-## References
-1. Silver, D., et al. (2016). "Mastering the game of Go with deep neural networks and tree search." *Nature*, 529(7587), 484-489.
-2. Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*. MIT Press.
-3. Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
-4. PyTorch Documentation: https://pytorch.org/docs/stable/index.html
-5. Google Colab Documentation: https://colab.research.google.com/
 
 ---
 
